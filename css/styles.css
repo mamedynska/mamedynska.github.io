@@ -10380,7 +10380,7 @@ header.masthead .masthead-heading {
   position: relative;
   float: right;
   width: 100%;
-  padding: 0 20px 0 0px;
+  padding: 0 20px 0 100px;
   text-align: left;
 }
 .timeline > li .timeline-panel:before {
@@ -10406,7 +10406,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: whitesmoke;
+  background-color: #fed136;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
@@ -10415,7 +10415,7 @@ header.masthead .masthead-heading {
 }
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
-  padding: 0 20px 0 0px;
+  padding: 0 20px 0 100px;
   text-align: left;
 }
 .timeline > li.timeline-inverted > .timeline-panel:before {
@@ -10456,7 +10456,7 @@ header.masthead .masthead-heading {
   .timeline > li .timeline-panel {
     float: left;
     width: 41%;
-    padding: 0 20px 20px 0px;
+    padding: 0 20px 20px 30px;
     text-align: right;
   }
   .timeline > li .timeline-image {
@@ -10472,7 +10472,7 @@ header.masthead .masthead-heading {
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     float: right;
-    padding: 0 30px 20px 0px;
+    padding: 0 30px 20px 20px;
     text-align: left;
   }
 }
@@ -10502,7 +10502,7 @@ header.masthead .masthead-heading {
     min-height: 170px;
   }
   .timeline > li .timeline-panel {
-    padding: 0 20px 20px 0px;
+    padding: 0 20px 20px 100px;
   }
   .timeline > li .timeline-image {
     width: 170px;
@@ -10513,7 +10513,7 @@ header.masthead .masthead-heading {
     margin-top: 40px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
-    padding: 0 0px 20px 20px;
+    padding: 0 100px 20px 20px;
   }
 }
 .team-member {
